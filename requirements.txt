@@ -1,2 +1,1 @@
-scikit-learn
-pandas
+scikit-learn==1.7.2
